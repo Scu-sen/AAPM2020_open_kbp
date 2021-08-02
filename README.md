@@ -1,3 +1,3 @@
 # AAPM2020_open_kbp
 
-OpenKBP - 2020 AAPM Grand Challenge 3rd place code
+This is the source code for the 3rd place solution to the [OpenKBP - 2020 AAPM Grand Challenge](https://competitions.codalab.org/competitions/23428).
